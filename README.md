@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sourav Saha</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sourav+Saha!;" />
+</h1>
 <h3 align="center">A passionate Software Developer </h3>
 <image align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/9ee11ea821227f2aa2f2a9b5fb79b2f73b9c959e2f04a3bb2e91649963a0fe4b/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d656366303565343766366b3238346c6c70317a7079777367617730706c66776d6771653579656232667469716d687772267269643d67697068792e6769662663743d67">
 
