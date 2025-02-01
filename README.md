@@ -14,7 +14,7 @@
 <h3 align="left">🌏 CONNECT WITH ME</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourav-saha98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-saha98" height="30" width="40" /></a>
-<a href="https://fb.com/sourav saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourav saha" height="30" width="40" /></a>
+<a href="https://instagram.com/_s_o_u_r_a_v_saha?utm_source=qr&igsh=YTJiMWZsdzJrc2do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourav saha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourav_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav_19" height="30" width="40" /></a>
 </p>
 
